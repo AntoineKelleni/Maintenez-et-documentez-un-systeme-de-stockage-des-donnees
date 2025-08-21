@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+  <img src="logo_OCR.jpg" alt="Logo Academy" width="100">
+</p>
+
 # Migration de données médicales vers MongoDB (Docker)
 
 Ce projet migre un CSV de données médicales vers une base **MongoDB** conteneurisée. Il inclut : un script Python d'import (`loader.py`), la création d'utilisateurs et rôles (`init-mongo.js`), et une orchestration Docker.
