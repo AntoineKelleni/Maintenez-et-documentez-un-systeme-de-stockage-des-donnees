@@ -32,6 +32,7 @@ mongodb_docker_medical/
 │   └── vscode_architecture_dossier...  # Schéma VSCode architecture
 │
 └── cheat_sheet_mongo.md                # Aide-mémoire MongoDB
+```
 
 ---
 
