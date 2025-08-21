@@ -192,11 +192,6 @@ db.patients.getIndexes()
 
 ---
 
-
-> Un exemple de squelette peut être fourni séparément.
-
----
-
 ##  Outils & dépendances
 
 Voir `requirements.txt` :
@@ -228,9 +223,7 @@ docker exec -it mongodb mongorestore --drop /backup
 ---
 
 ##  Bonnes pratiques sécurité (rappel)
-- Changer tous les **mots de passe** par défaut dans `.env`.
 - Utiliser le **principe du moindre privilège** (app = `appuser`).
-- Ne pas commiter `.env` en clair (utiliser un `.env.example`).
 
 ---
 
