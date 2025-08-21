@@ -22,12 +22,11 @@ mongodb_docker_medical/
 ├── docker-compose.yml                  # Orchestration Docker (MongoDB + loader)
 │
 ├── README.md                           # Documentation principale
-├── README_EXTENDED.md                  # Documentation détaillée
 ├── requirements.txt                    # Dépendances Python (loader)
 │
 ├── Screenshot_realisation/             # Captures de réalisation (logs, Compass, étapes)
 │   ├── etape 1 migration auto...       # Screenshot migration automatique
-│   ├── Etape 2 verifier...             # Screenshot vérification Compass
+│   ├── Etape 2 verifier...             # Screenshot vérification de visualisation mongosh et compass 
 │   ├── cmd_docker_show_all_users.png   # Screenshot utilisateurs Mongo
 │   ├── logs_docker_desktop.docx        # Rapport logs Docker
 │   └── vscode_architecture_dossier...  # Schéma VSCode architecture
